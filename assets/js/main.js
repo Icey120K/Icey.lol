@@ -1,6 +1,6 @@
 console.log("vile.sh ; stab.wtf :skull:");
 
-let counter = 0; let Title = 'zelvics'; let direction = true;
+let counter = 0; let Title = 'Icey'; let direction = true;
 aniTitle = setInterval(function () {
     if (counter == Title.length) direction = false;
     if (counter == false) direction = true;
