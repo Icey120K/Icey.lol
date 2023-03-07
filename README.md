@@ -1,2 +1,2 @@
-# <a href="https://zelvics.com">zelvics.com</a>
+# <a href="(https://icey.lol/)">Icey.lol</a>
 bio
