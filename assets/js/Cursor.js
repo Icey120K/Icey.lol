@@ -1,1 +1,4 @@
-<script src="https://unpkg.com/cursor-effects@latest/dist/browser.js" id="cursorgeci1" data-nscript="afterInteractive"></script>
+<script id="cursorgeci2" type="module" data-nscript="afterInteractive">
+                  import { fairyDustCursor, ghostCursor, trailingCursor, bubbleCursor, emojiCursor, snowflakeCursor } from 'https://unpkg.com/cursor-effects@latest/dist/esm.js';
+                  new trailingCursor();
+              </script>
